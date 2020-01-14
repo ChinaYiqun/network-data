@@ -1,2 +1,2 @@
 # network-data
-Identifying vital nodes based on reverse greedy method论文中所用到的real network data
+The network data used in “Identifying vital nodes based on reverse greedy method”
